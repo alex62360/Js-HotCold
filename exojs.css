@@ -1,0 +1,73 @@
+body{
+  background-image: url(feu-eau.jpg);
+  background-repeat: no-repeat;
+background-size: cover;
+}
+
+h1{
+  font-size: 3em;
+  color: white;
+}
+#froid{
+  color: blue;
+}
+#rouge{
+  color: red;
+}
+#titre{
+  height: 100px;
+  width: auto;
+  text-align: center;
+  color: white;
+}
+#titre1{
+  height: 500px;
+  width: 506px;
+}
+p{
+  font-family: fantasy;
+  font-size: 1.5em;
+  text-align: center;
+  color: white;
+}
+#droite{
+  height: 500px;
+  width: 506px;
+  position: absolute;
+  left: 59%;
+  bottom:70px;
+
+}
+#in{
+  height: 200px;
+  width: 350px;
+  left: 60px;
+  top: 15px;
+  position: relative;
+  font-size: 3em;
+  text-align: center;
+  color: white;
+}
+#test{
+width: 290px;
+height: 290px;
+position: relative;
+left: 140px;
+bottom: 70px;
+background-repeat: no-repeat;
+/*border: 10px outset black*/
+}
+table{
+  width: 300px;
+  height: 50px;
+  border: 1px solid black;
+}
+h2{
+  font-size: 3em;
+  text-align: center;
+  color: white;
+}
+form{
+  position: relative;
+  left: 150px;
+}
